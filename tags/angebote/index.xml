@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eichwalder Kampfkunst</title>
-    <link>https://reneheinze.github.io/kampfkunsteichwaldeonline/</link>
-    <description>Recent content on Eichwalder Kampfkunst</description>
+    <title>angebote on Eichwalder Kampfkunst</title>
+    <link>https://reneheinze.github.io/kampfkunsteichwaldeonline/tags/angebote/</link>
+    <description>Recent content in angebote on Eichwalder Kampfkunst</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://reneheinze.github.io/kampfkunsteichwaldeonline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Aug 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://reneheinze.github.io/kampfkunsteichwaldeonline/tags/angebote/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>European Kempō Karate</title>
       <link>https://reneheinze.github.io/kampfkunsteichwaldeonline/post/europeankempokarate/</link>
@@ -35,25 +35,6 @@ Aufgrund ihrer Geschichte beinhalten die philippinischen Systeme, wie die spanis
       <guid>https://reneheinze.github.io/kampfkunsteichwaldeonline/post/yoga/</guid>
       <description>Yoga ist offen für alle Menschen. Yoga ist weder Religion noch Philosophie oder Sport. Yoga kann Gesundheit und Lebensqualität steigern. Yoga in Indien ist anders als in Europa, und doch das gleiche. In Eichwalde wird ein moderat bewegungbetontes Yoga, das auch Sequenzen der Entspannung beinhaltet, praktiziert. Daneben erfolgt eine Vermittlung von Wissen zu verschiedenen Themen. Die Übungssprache ist Deutsch.
 Ein modernes Yoga in indischer Tradition gemäß den Ursprüngen, die eine Ansammlung verschiedener Wege ist, wobei auch parallele und nichtindische Entwicklungen Ihren Fingerabdruck hinterlassen haben.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://reneheinze.github.io/kampfkunsteichwaldeonline/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reneheinze.github.io/kampfkunsteichwaldeonline/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://reneheinze.github.io/kampfkunsteichwaldeonline/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://reneheinze.github.io/kampfkunsteichwaldeonline/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required. Message </description>
     </item>
     
   </channel>
